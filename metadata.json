@@ -1,0 +1,7 @@
+{
+  "name": "TreeDex",
+  "description": "A real-world Pokédex for trees with a sci-fi botanical aesthetic. Identify trees, build a collection, and track your mood in nature.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
